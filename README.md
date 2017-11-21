@@ -7,7 +7,7 @@ Creates circle geometry
 ## Usage
 
 ```javascript
-var createCircle = require('geom-circle')
+var createCircle = require('primitive-circle')
 
 var circle = createCircle(1, 32)
 //circle = { positions: [[x,y], ...], cells: [[0, 1], [1,2], ...] }
