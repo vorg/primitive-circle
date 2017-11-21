@@ -26,4 +26,4 @@ Returns geometry object with positions [x, y] and cells [i, j]
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/vorg/geom-merge/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/vorg/primitive-circle/blob/master/LICENSE.md) for details.
